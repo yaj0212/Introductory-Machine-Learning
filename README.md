@@ -1,1 +1,1 @@
-# introductory-machine-learning
+# Introductory Machine Learning
